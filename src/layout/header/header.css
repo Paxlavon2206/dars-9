@@ -1,0 +1,15 @@
+
+.header__container{
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    padding-top: 10px;
+}
+    
+
+.header__logo{
+width: 80.29px;
+height: 59.08px;
+
+}
